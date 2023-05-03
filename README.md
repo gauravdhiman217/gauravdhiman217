@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and Devops**
 
-- 💬 Ask me about **Python, Data cleaning, Data visualization, Django Framework, Python**
+- 💬 Ask me about **Python, Data cleaning, Data visualization, Django Framework, SQL servers**
 
 - 📫 How to reach me **Imgauravdhiman@gmail.com**
 
