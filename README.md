@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Dhiman</h1>
-<h3 align="center">A passionate Data Engineer and Data Analyst from Chandigarh, India.</h3>
+<h3 align="center">A passionate Software Engineer from Chandigarh, India.</h3>
 
 - 🔭 I’m currently working as **Python Developer**
 
-- 🌱 I’m currently learning **Django and Devops**
+- 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **Python, Data cleaning, Data visualization, Django Framework, SQL servers**
+- 💬 Ask me about **Python, Qt FrameWork, Data visualization, Django Framework, SQL servers**
 
 - 📫 How to reach me **Imgauravdhiman@gmail.com**
 
